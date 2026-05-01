@@ -15,7 +15,7 @@
 
 I'm a university student with a strong focus on **Artificial Intelligence** and **Cybersecurity**. I enjoy building projects that sit at the intersection of intelligent systems and secure design — from machine learning pipelines to network analysis tools.
 
-- 🎓 Studying Computer Science / Information Technology
+- 🎓 Studying Internet and Network Technologies
 - 🔍 Currently exploring: Machine Learning, Network Security & Ethical Hacking
 - 🛠️ Working on personal projects involving Python and AI
 - 📍 Istanbul, Turkey
